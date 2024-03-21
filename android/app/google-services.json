@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160741299112",
+    "project_id": "firepro-65b88",
+    "storage_bucket": "firepro-65b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160741299112:android:83d11501da132968e4839d",
+        "android_client_info": {
+          "package_name": "com.example.final_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlID6ORNMgEaYiUYU3s0AgT76DHilauc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
